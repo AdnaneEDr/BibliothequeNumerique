@@ -91,13 +91,13 @@ PDF;c3d4e5f6-a7b8-9012-cdef-123456789012;Guide C#;Microsoft;2023;15.5
 - ✅ Programme principal avec menu interactif
 
 ## 👨‍💻 Auteur
-**Nom** : [Votre Nom]  
+**Nom** : Adnane Edrissi 
 **Année** : 2024-2025  
 **Filière** : Génie Informatique 4ème année
 
 ## 📧 Contact
-- Email : votre.email@example.com
-- GitHub : [@VotreUsername](https://github.com/VotreUsername)
+- Email : edradnane@gmail.com
+- GitHub : [@VotreUsername](https://github.com/AdnaneEDr)
 
 ## 📄 Licence
 Projet académique - EMSI 2024-2025
