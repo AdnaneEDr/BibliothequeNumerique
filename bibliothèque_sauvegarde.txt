@@ -1,0 +1,6 @@
+LIVRE;a1b2c3d4-e5f6-7890-abcd-ef1234567890;Le Petit Prince;Antoine de Saint-Exupéry;1943;96
+MAGAZINE;b2c3d4e5-f6a7-8901-bcde-f12345678901;National Geographic;Divers auteurs;2024;150
+PDF;c3d4e5f6-a7b8-9012-cdef-123456789012;Introduction à C#;Microsoft;2023;15.5
+LIVRE;d4e5f6a7-b8c9-0123-def1-234567890123;1984;George Orwell;1949;328
+MAGAZINE;e5f6a7b8-c9d0-1234-ef12-345678901234;Science et Vie;Collectif;2024;75
+PDF;f6a7b8c9-d0e1-2345-f123-456789012345;Guide ASP.NET;Divers;2024;42.8
